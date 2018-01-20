@@ -1,0 +1,17 @@
+{
+  "name": "hyperapp-cra-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "hyperapp": "^1.0.2"
+  },
+  "scripts": {
+    "format": "npx prettier --write src/**/*.{css,js}",
+    "start": "hyperapp-scripts start",
+    "build": "hyperapp-scripts build"
+  },
+  "devDependencies": {
+    "cra-hyperapp": "0.0.1",
+    "react-scripts": "1.1.0"
+  }
+}
