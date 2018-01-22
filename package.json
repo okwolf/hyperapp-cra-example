@@ -11,7 +11,7 @@
     "build": "hyperapp-scripts build"
   },
   "devDependencies": {
-    "cra-hyperapp": "0.0.1",
+    "cra-hyperapp": "0.0.4",
     "react-scripts": "1.1.0"
   }
 }
